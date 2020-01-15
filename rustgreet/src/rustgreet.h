@@ -1,4 +1,4 @@
 #include <stdint.h>
 
 const char* rust_greeting(const char* to);
-void rust_greeting_free(char* greeting);
+void rust_greeting_free(const char* greeting);

@@ -59,9 +59,6 @@ cd rustgreet
 cargo build
 ```
 
-Add target ?
-??? cargo build --target x86_64-unknown-linux-gnu
-
 Build the Rust library
 
 ```shell
